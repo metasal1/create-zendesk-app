@@ -1,0 +1,34 @@
+{
+  "name": "create-zendesk-app",
+  "version": "0.0.5",
+  "description": "Boilerplate for Zendesk, React, Typescript and Vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "tsc && vite build"
+  },
+  "keywords": [
+    "zendesk",
+    "vite",
+    "react",
+    "typescript"
+  ],
+  "author": "Salim Karim",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metasal1/create-zendesk-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metasal1/create-zendesk-app/issues"
+  },
+  "homepage": "https://github.com/metasal1/create-zendesk-app#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.13",
+    "@zendeskgarden/css-bedrock": "^9.0.0",
+    "@zendeskgarden/react-tables": "^8.49.0",
+    "@zendeskgarden/react-typography": "^8.49.0"
+  }
+}

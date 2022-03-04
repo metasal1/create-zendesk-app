@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Create Zendesk App",
+    "short_description": "Boilerplate for creating Zendesk apps using React, Typescript and Vite.",
+    "long_description": "Boilerplate for creating Zendesk apps using React, Typescript and Vite.",
+    "installation_instructions": "npm create-zendesk-app"
+  }
+}
